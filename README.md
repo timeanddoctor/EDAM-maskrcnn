@@ -74,4 +74,11 @@ $ python single-slice-prediction.py
 ![avatar](docPic/pic1.jpg)
 
 
+https://jonathan-hui.medium.com/image-segmentation-with-mask-r-cnn-ebe6d793272
+
+https://blog.csdn.net/IanYue/article/details/126657217
+
+https://blog.csdn.net/qq_27825451/article/details/89677068
+
+
 
